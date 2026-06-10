@@ -1,2 +1,2 @@
-# project-1
-calculator using c language 
+# basic C code practice from 1.1 
+
